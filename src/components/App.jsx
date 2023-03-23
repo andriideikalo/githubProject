@@ -1,4 +1,4 @@
-import NavList from './Nav/nav';
+import NavList from './nav/nav';
 import * as React from 'react';
 import { Box, Center, AspectRatio, Flex, Badge, Text } from '@chakra-ui/react';
 import { MdStar } from 'react-icons/md';
