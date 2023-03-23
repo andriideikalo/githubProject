@@ -1,4 +1,4 @@
-import NavList from './Nav/nav';
+import NavList from '../components/Nav/nav';
 export const App = () => {
   return (
     <>
